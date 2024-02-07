@@ -1,4 +1,4 @@
-<div align='center'><img style="width:16%" src='./public/biticon.png'/></div>
+<div align='center'><img style="width:16%" src='./public/btc.png'/></div>
 
 <h2>About the project</h2>
 
@@ -28,7 +28,7 @@ The website is connected to the Coingecko API, which is a popular source of data
 
 <br><br>
 
-<h3 align='center'>Coin Page 🌕</h3>
+<h3 align='center'>Coin Page 💎</h3>
 
 <div align='center'>
 <img src='./public/coinpro-screen-2.png'/>
