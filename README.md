@@ -28,7 +28,7 @@ The website is connected to the Coingecko API, which is a popular source of data
 
 <br><br>
 
-<h3 align='center'>Coin Page 🪙</h3>
+<h3 align='center'>Coin Page 🌕</h3>
 
 <div align='center'>
 <img src='./public/coinpro-screen-2.png'/>
